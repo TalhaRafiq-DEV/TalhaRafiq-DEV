@@ -10,7 +10,7 @@ Today, I'm focused on building AI-powered applications that don't just demonstra
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 My current focus is on **AI Engineering and intelligent automation**, including:
 
